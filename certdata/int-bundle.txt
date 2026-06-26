@@ -23456,6 +23456,44 @@ Details:
 	OCSP server:
 		- http://ocsp.sectigo.com
 CERTIFICATE
+Subject: /GEANT TLS ECC 1/C=GR/O=Hellenic Academic and Research Institutions
+    CA
+Issuer: /HARICA TLS ECC Root CA 2021/C=GR/O=Hellenic Academic and Research
+    Institutions CA
+	Signature algorithm: ECDSA / SHA384
+Details:
+	Public key: ECDSA-secp384r1
+	Serial number: 89047178795250192038918543894749733341
+	AKI: C9:1B:53:81:12:FE:04:D5:16:D1:AA:BC:9A:6F:B7:A0:95:19:6E:CA
+	SKI: E9:99:06:8D:17:1F:AB:FB:96:1A:5A:C8:5B:5E:5D:5E:EC:DA:9C:8F
+	Valid from: 2025-01-03T11:14:21+0000
+	     until: 2039-12-31T11:14:20+0000
+	Key usages: cert sign, crl sign, digital signature
+	Extended usages: client auth, server auth
+	Basic constraints: valid, is a CA certificate, max path length 0
+	SANs (0):
+	1 AIA:
+		http://crt.harica.gr/HARICA-TLS-Root-2021-ECC.cer
+CERTIFICATE
+Subject: /GEANT TLS RSA 1/C=GR/O=Hellenic Academic and Research Institutions
+    CA
+Issuer: /HARICA TLS RSA Root CA 2021/C=GR/O=Hellenic Academic and Research
+    Institutions CA
+	Signature algorithm: RSA / SHA256
+Details:
+	Public key: RSA-3072
+	Serial number: 27693033167928194888280225673824770850
+	AKI: 0A:48:23:A6:60:A4:92:0A:33:EA:93:5B:C5:57:EA:25:4D:BD:12:EE
+	SKI: 86:01:72:3F:8C:A9:70:E2:31:06:53:16:CE:01:5F:5B:79:C8:3C:3B
+	Valid from: 2025-01-03T11:15:00+0000
+	     until: 2039-12-31T11:14:59+0000
+	Key usages: cert sign, crl sign, digital signature
+	Extended usages: client auth, server auth
+	Basic constraints: valid, is a CA certificate, max path length 0
+	SANs (0):
+	1 AIA:
+		http://crt.harica.gr/HARICA-TLS-Root-2021-RSA.cer
+CERTIFICATE
 Subject: /Microsoft TLS ECC Root G2/C=US/O=Microsoft Corporation
 Issuer: /DigiCert Global Root G3/C=US/O=DigiCert Inc/OU=www.digicert.com
 	Signature algorithm: ECDSA / SHA384
