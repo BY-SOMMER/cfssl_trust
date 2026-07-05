@@ -4851,58 +4851,6 @@ Details:
 	OCSP server:
 		- http://ocsp.pca.dfn.de/OCSP-Server/OCSP
 CERTIFICATE
-Subject: /Abbott Laboratories Secure Server CA/C=US/O=Abbott Laboratories Inc.
-Issuer: /DigiCert Global Root CA/C=US/O=DigiCert Inc/OU=www.digicert.com
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 14723618093018288781626052566588831784
-	AKI: 03:DE:50:35:56:D1:4C:BB:66:F0:A3:E2:1B:1B:C3:97:B2:3D:D1:55
-	SKI: A0:25:69:BA:32:1C:3C:8F:E0:A1:5E:8D:AB:E4:DA:B0:AD:32:25:3B
-	Valid from: 2016-07-12T12:28:08+0000
-	     until: 2026-07-12T12:28:08+0000
-	Key usages: cert sign, crl sign, digital signature
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	OCSP server:
-		- http://ocsp.digicert.com
-CERTIFICATE
-Subject: /Cisco Meraki CA/C=US/O=Cisco Systems, Inc.
-Issuer: /DigiCert Global Root CA/C=US/O=DigiCert Inc/OU=www.digicert.com
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 12823655246191776143222864867735131502
-	AKI: 03:DE:50:35:56:D1:4C:BB:66:F0:A3:E2:1B:1B:C3:97:B2:3D:D1:55
-	SKI: 63:61:95:55:76:F4:14:16:A5:34:E3:B0:3D:73:10:37:FC:CA:83:8D
-	Valid from: 2016-07-12T12:28:28+0000
-	     until: 2026-07-12T12:28:28+0000
-	Key usages: cert sign, crl sign, digital signature
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	OCSP server:
-		- http://ocsp.digicert.com
-CERTIFICATE
-Subject: /Cal INDEX CA/C=US/O=California Integrated Data Exchange,
-    Inc./OU=Orion Health Direct Secure Messaging
-Issuer: /Orion Health Direct Secure Messaging CA/C=US/O=Orion Health
-    Inc./OU=Orion Health Direct Secure Messaging
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 6529885954022715176295634856096036713
-	AKI: A5:6E:22:FF:39:69:3A:23:FB:89:24:17:C6:60:94:00:1A:DA:8E:9E
-	SKI: 8A:71:30:30:C1:95:07:E7:33:18:87:D1:17:56:56:48:78:94:E6:08
-	Valid from: 2016-07-12T12:28:37+0000
-	     until: 2026-07-12T12:28:37+0000
-	Key usages: cert sign, crl sign, digital signature
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	1 AIA:
-		http://cacerts.digicert.com/aiaOrionHealthIssuingCAs.p7c
-	OCSP server:
-		- http://ocsp.digicert.com
-CERTIFICATE
 Subject: /TrustAsia DV SSL CA - G5/C=CN/O=TrustAsia Technologies,
     Inc./OU=Symantec Trust Network/OU=Domain Validated SSL
 Issuer: /VeriSign Class 3 Public Primary Certification Authority -
@@ -21303,25 +21251,6 @@ Details:
 	SANs (0):
 	1 AIA:
 		http://cacerts.digicert.com/DigiCertGlobalRootG2.crt
-	OCSP server:
-		- http://ocsp.digicert.com
-CERTIFICATE
-Subject: /Cisco Meraki CA2/C=US/O=Cisco Systems, Inc.
-Issuer: /DigiCert Global Root CA/C=US/O=DigiCert Inc/OU=www.digicert.com
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 16125626931477263938320716880486125977
-	AKI: 03:DE:50:35:56:D1:4C:BB:66:F0:A3:E2:1B:1B:C3:97:B2:3D:D1:55
-	SKI: 23:4E:D9:C2:77:68:40:B7:10:CE:AE:A4:D2:D0:67:4B:79:E8:30:5B
-	Valid from: 2020-09-24T00:00:00+0000
-	     until: 2026-07-12T12:28:28+0000
-	Key usages: cert sign, crl sign, digital signature
-	Extended usages: client auth, server auth
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	1 AIA:
-		http://cacerts.digicert.com/DigiCertGlobalRootCA.crt
 	OCSP server:
 		- http://ocsp.digicert.com
 CERTIFICATE
