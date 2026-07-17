@@ -23292,42 +23292,6 @@ Details:
 	OCSP server:
 		- http://ocsp.comodoca.com
 CERTIFICATE
-Subject: /SSL.com TLS Transit ECC CA R2/C=US/O=SSL Corporation
-Issuer: /AAA Certificate Services/C=GB/O=Comodo CA
-    Limited/L=Salford/ST=Greater Manchester
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: ECDSA-secp384r1
-	Serial number: 230689489348224661138528249859306320833
-	AKI: A0:11:0A:23:3E:96:F1:07:EC:E2:AF:29:EF:82:A5:7F:D0:30:A4:B4
-	SKI: 32:A2:C7:D8:58:8B:FF:7F:C0:3C:F2:55:69:33:EC:CE:CC:1F:BC:97
-	Valid from: 2024-06-21T00:00:00+0000
-	     until: 2028-12-31T23:59:59+0000
-	Key usages: cert sign, crl sign, digital signature
-	Extended usages: client auth, server auth
-	Basic constraints: valid, is a CA certificate, max path length 1
-	SANs (0):
-	OCSP server:
-		- http://ocsp.comodoca.com
-CERTIFICATE
-Subject: /SSL.com TLS Transit RSA CA R2/C=US/O=SSL Corporation
-Issuer: /AAA Certificate Services/C=GB/O=Comodo CA
-    Limited/L=Salford/ST=Greater Manchester
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-4096
-	Serial number: 109482805241870252142466285041887603144
-	AKI: A0:11:0A:23:3E:96:F1:07:EC:E2:AF:29:EF:82:A5:7F:D0:30:A4:B4
-	SKI: 21:41:34:63:8E:1D:91:0C:C3:DD:B6:24:B0:A8:87:7B:8D:65:60:08
-	Valid from: 2024-06-21T00:00:00+0000
-	     until: 2028-12-31T23:59:59+0000
-	Key usages: cert sign, crl sign, digital signature
-	Extended usages: client auth, server auth
-	Basic constraints: valid, is a CA certificate, max path length 1
-	SANs (0):
-	OCSP server:
-		- http://ocsp.comodoca.com
-CERTIFICATE
 Subject: /Entrust OV TLS Issuing RSA CA 2/C=CA/O=Entrust Limited
 Issuer: /Sectigo Public Server Authentication Root R46/C=GB/O=Sectigo Limited
 	Signature algorithm: RSA / SHA384
