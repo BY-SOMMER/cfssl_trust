@@ -4851,46 +4851,6 @@ Details:
 	OCSP server:
 		- http://ocsp.pca.dfn.de/OCSP-Server/OCSP
 CERTIFICATE
-Subject: /TrustAsia DV SSL CA - G5/C=CN/O=TrustAsia Technologies,
-    Inc./OU=Symantec Trust Network/OU=Domain Validated SSL
-Issuer: /VeriSign Class 3 Public Primary Certification Authority -
-    G5/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign,
-    Inc. - For authorized use only
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 77178594526115665168908593393328055362
-	AKI: 7F:D3:65:A7:C2:DD:EC:BB:F0:30:09:F3:43:39:FA:02:AF:33:31:33
-	SKI: 6D:58:C7:7F:1A:E7:E1:3F:2E:A6:8C:97:35:42:BB:F4:D3:38:AC:3F
-	Valid from: 2016-08-11T00:00:00+0000
-	     until: 2026-08-10T23:59:59+0000
-	Key usages: cert sign, crl sign
-	Extended usages: client auth, server auth
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	OCSP server:
-		- http://s.symcd.com
-CERTIFICATE
-Subject: /TrustAsia DV SSL CA - G6/C=CN/O=TrustAsia Technologies,
-    Inc./OU=Symantec Trust Network/OU=Domain Validated SSL
-Issuer: /VeriSign Universal Root Certification Authority/C=US/O=VeriSign,
-    Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized
-    use only
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 28921325614611865125710270040148526808
-	AKI: B6:77:FA:69:48:47:9F:53:12:D5:C2:EA:07:32:76:07:D1:97:07:19
-	SKI: DE:A4:30:AC:E4:3F:F5:27:2B:31:7C:AF:90:67:1D:AE:22:9E:EC:64
-	Valid from: 2016-08-11T00:00:00+0000
-	     until: 2026-08-10T23:59:59+0000
-	Key usages: cert sign, crl sign
-	Extended usages: client auth, server auth
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	OCSP server:
-		- http://s.symcd.com
-CERTIFICATE
 Subject: /Beame.io CA 2/C=IL/O=Beame.io Ltd/L=Tel Aviv-Jaffa/ST=Tel Aviv
 Issuer: /Trusted Root CA SHA256 G2/C=BE/O=GlobalSign nv-sa/OU=Trusted Root
 	Signature algorithm: RSA / SHA256
