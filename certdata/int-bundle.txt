@@ -4851,25 +4851,6 @@ Details:
 	OCSP server:
 		- http://ocsp.pca.dfn.de/OCSP-Server/OCSP
 CERTIFICATE
-Subject: /Beame.io CA 2/C=IL/O=Beame.io Ltd/L=Tel Aviv-Jaffa/ST=Tel Aviv
-Issuer: /Trusted Root CA SHA256 G2/C=BE/O=GlobalSign nv-sa/OU=Trusted Root
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 1465789351150825678277150386514049
-	AKI: C8:63:9B:08:69:54:C2:98:C8:D9:CD:E3:33:B7:50:5E:F8:C9:01:9B
-	SKI: 8E:DC:CC:D6:65:90:7E:A8:38:5F:E4:DE:03:3D:07:1B:CC:15:F0:85
-	Valid from: 2016-08-17T00:00:00+0000
-	     until: 2026-08-17T00:00:00+0000
-	Key usages: cert sign, crl sign
-	Extended usages: client auth, server auth
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	1 AIA:
-		http://secure.globalsign.com/cacert/trustrootsha2g2.crt
-	OCSP server:
-		- http://ocsp2.globalsign.com/trustrootsha2g2
-CERTIFICATE
 Subject: /Abbott Laboratories Secure Authentication CA/C=US/O=Abbott
     Laboratories Inc.
 Issuer: /DigiCert Global Root CA/C=US/O=DigiCert Inc/OU=www.digicert.com
