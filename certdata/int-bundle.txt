@@ -4851,25 +4851,6 @@ Details:
 	OCSP server:
 		- http://ocsp.pca.dfn.de/OCSP-Server/OCSP
 CERTIFICATE
-Subject: /Abbott Laboratories Secure Authentication CA/C=US/O=Abbott
-    Laboratories Inc.
-Issuer: /DigiCert Global Root CA/C=US/O=DigiCert Inc/OU=www.digicert.com
-	Signature algorithm: RSA / SHA256
-Details:
-	Public key: RSA-2048
-	Serial number: 13653465796910032183273983263649287324
-	AKI: 03:DE:50:35:56:D1:4C:BB:66:F0:A3:E2:1B:1B:C3:97:B2:3D:D1:55
-	SKI: 5C:15:88:90:6D:25:22:F3:CF:12:2D:6E:61:21:CE:07:96:B2:40:06
-	Valid from: 2016-08-23T12:49:38+0000
-	     until: 2026-08-23T12:49:38+0000
-	Key usages: cert sign, crl sign, digital signature
-	Basic constraints: valid, is a CA certificate, max path length 0
-	SANs (0):
-	1 AIA:
-		http://cacerts.digicert.com/DigiCertGlobalRootCA.crt
-	OCSP server:
-		- http://ocsp.digicert.com
-CERTIFICATE
 Subject: /Online e-Szigno SSL CA 2016/C=HU/O=Microsec Ltd./L=Budapest
 Issuer: /Microsec e-Szigno Root CA 2009/C=HU/O=Microsec Ltd./L=Budapest
 	Signature algorithm: RSA / SHA256
